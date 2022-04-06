@@ -22,4 +22,6 @@
 по адресу 
 http://localhost:8000/cities/?search=
 например http://localhost:8000/cities/?search=моск
-возвращает объект JSON, содержащий 20 первых совпадений и статус. 
+возвращает объект JSON, содержащий 20 первых совпадений и статус. <br> <br>
+
+Ссылка на файл с городами: https://disk.yandex.ru/d/QFFpKFJ9aepxbw
